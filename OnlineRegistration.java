@@ -34,7 +34,7 @@ class Student {
         }
     }
 }
-public class Onlineregistration {
+public class OnlineRegistration {
     public static void main(String[] args) {
         Student s = new Student();
         s.displayInfo();
